@@ -18,6 +18,7 @@
 		</div>
 		<hr/>
     <h1 align="center">Form Tambah Data Mahasiswa</h1>
+	  <h1 align="center">Praktikum Sister</h1>
     <hr/>
     <!-- Menampilkan Error jika validasi tidak valid -->
     <div style="color: red;"><?php echo validation_errors(); ?></div>
