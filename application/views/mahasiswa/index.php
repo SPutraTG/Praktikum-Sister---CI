@@ -54,6 +54,8 @@
 	<br/>
 	<h1 align="center">Data Mahasiswa Penerima Beasiswa</h1>
 		<hr width="45%">
+	  <h1 align="center">Praktikum Sister</h1>
+		<hr width="45%">
     <a href='<?php echo base_url("mahasiswa/tambah"); ?>'><img src="<?php echo base_url();?>application/aset/gambar/add.png" width="50px"></a><br><br>
     <table border="1" cellpadding="7" align="center">
       <tr>
